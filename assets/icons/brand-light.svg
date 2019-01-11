@@ -1,0 +1,32 @@
+<svg width="350" height="350" xmlns="http://www.w3.org/2000/svg">
+<!--
+/********************************************************************************
+ * Copyright (C) 2019 Ericsson and others.
+ *
+ * This program and the accompanying materials are made available under the
+ * terms of the Eclipse Public License v. 2.0 which is available at
+ * http://www.eclipse.org/legal/epl-2.0.
+ *
+ * This Source Code may also be made available under the following Secondary
+ * Licenses when the conditions for such availability set forth in the Eclipse
+ * Public License v. 2.0 are satisfied: GNU General Public License, version 2
+ * with the GNU Classpath Exception which is available at
+ * https://www.gnu.org/software/classpath/license.html.
+ *
+ * SPDX-License-Identifier: EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0
+ ********************************************************************************/
+-->
+ <g>
+  <rect fill="none" id="canvas_background" height="352" width="352" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <ellipse stroke="#000" ry="170" rx="170" id="svg_1" cy="175" cx="174.999998" stroke-width="0" fill="#DDDDDD"/>
+  <ellipse ry="120" rx="120" id="svg_9" cy="175" cx="175" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
+  <ellipse ry="75" rx="75" id="svg_11" cy="175" cx="175" stroke-width="0" stroke="#000" fill="#DDDDDD"/>
+  <rect stroke="#000" id="svg_12" height="77.000005" width="114.999997" y="138.499994" x="223" stroke-width="0" fill="#DDDDDD"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="95" id="svg_13" y="207" x="210.054688" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">++</text>
+ </g>
+</svg>
