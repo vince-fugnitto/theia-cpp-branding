@@ -16,7 +16,7 @@
     "@theia/monaco": "latest",
     "@theia/typescript": "latest",
     "@theia/messages": "latest",
-    "cpp-branding": "0.3.18"
+    "@theia/cpp-branding": "0.3.18"
   },
   "devDependencies": {
     "@theia/cli": "latest"
