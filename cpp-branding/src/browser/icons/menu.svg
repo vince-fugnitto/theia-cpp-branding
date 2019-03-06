@@ -27,6 +27,6 @@
   <ellipse ry="120" rx="120" id="svg_9" cy="175" cx="175" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff"/>
   <ellipse ry="75" rx="75" id="svg_11" cy="175" cx="175" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#0082f0"/>
   <rect stroke="#000" id="svg_12" height="77.000005" width="114.999997" y="138.499994" x="223" stroke-opacity="null" stroke-width="0" fill="#0082f0"/>
-  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="95" id="svg_13" y="207" x="210.054688" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">++</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Trebuchet MS', Gadget, sans-serif" font-size="95" id="svg_13" y="207" x="185" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">++</text>
  </g>
 </svg>
