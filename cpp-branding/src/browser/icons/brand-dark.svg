@@ -30,7 +30,7 @@
    <ellipse fill="#1e1e1e" stroke="#000" stroke-width="0" cx="176" cy="175" id="svg_9" rx="120" ry="120"/>
    <ellipse fill="#353535" stroke="#000" stroke-width="0" cx="177" cy="174" id="svg_11" rx="75" ry="75"/>
    <rect fill="#353535" stroke-width="0" x="224" y="138.499994" width="114.999997" height="77.000005" id="svg_12" stroke="#000"/>
-   <text fill="#1e1e1e" stroke="#000" stroke-width="0" x="212.054688" y="208" id="svg_13" font-size="95" font-family="'Trebuchet MS', Gadget, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold">++</text>
+   <text fill="#1e1e1e" stroke="#000" stroke-width="0" x="185" y="208" id="svg_13" font-size="95" font-family="'Trebuchet MS', Gadget, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold">++</text>
   </g>
  </g>
 </svg>

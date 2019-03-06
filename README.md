@@ -1,6 +1,6 @@
 <div align='center' style='padding:20px;'>
 
-<img src="./assets/icons/menu.svg" alt="Theia Cpp Logo" width="200"/>
+<img src="./assets/menu.png" alt="Theia Cpp Logo" width="200"/>
 
 <h3 style='font-weight:500;font-size:32px'>Theia Cpp Branding Extension</h3>
 
