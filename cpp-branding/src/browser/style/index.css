@@ -18,7 +18,7 @@
     background-image: var(--theia-menu-logo);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
  #theia-main-content-panel {
