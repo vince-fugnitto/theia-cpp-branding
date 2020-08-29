@@ -3,7 +3,7 @@
   "keywords": [
     "theia-extension"
   ],
-  "version": "0.3.18",
+  "version": "1.0.0",
   "files": [
     "lib",
     "src"
